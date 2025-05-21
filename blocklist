@@ -1,0 +1,28 @@
+# Amazon Fire TV Ad and Telemetry Blocklist
+aax-us-east.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.com
+fls-na.amazon.com
+fls-eu.amazon.com
+amazon-adsystem.com
+device-metrics-us.amazon.com
+device-metrics-eu.amazon.com
+telemetry.amazon.com
+telemetry.tv.amazon.com
+dp-gw-na-js.amazon.com
+gadgets-ecs.amazonaws.com
+softwareupdates.amazon.com
+amplify.aws
+firetvcaptiveportal.com
+www.example.com  # test line you can delete after import
+
+# General Smart TV Ad Domains
+ad.lgsmartad.com
+lgad.cjpowercast.com
+samsungads.com
+ads.samsung.com
+config.samsungads.com
+ib.adnxs.com
+pubads.g.doubleclick.net
+pagead2.googlesyndication.com
+adclick.g.doubleclick.net
